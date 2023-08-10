@@ -1,3 +1,4 @@
+![logo](https://github.com/Gopal404/Gopal404/blob/main/Black%20Green%20Modern%20Sales%20Manager%20Linkedin%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Gopal Sarkar</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
