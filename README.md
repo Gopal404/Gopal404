@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gopal Sarkar</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*zGtIUs6yiXBojG4e.gif">
+<img align="right" alt="coding" width="400" src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopal404&label=Profile%20views&color=0e75b6&style=flat" alt="gopal404" /> </p>
 
